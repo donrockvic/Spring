@@ -1,0 +1,14 @@
+{
+  "id" : 12,
+  "firstName" : "vicky",
+  "lastName" : "prasad",
+  "active" : true,
+  "address" : {
+    "street" : "100 Main st",
+    "city" : "Dhanbad",
+    "state" : "Jharkhand",
+    "zip" : "826001",
+    "country" : "India"
+  },
+  "languages" : [ "JAVA", "Python", "Javascript" ]
+}
